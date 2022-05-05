@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.1.1_f549d49f5256682d04c789470596ff3315708f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_6d6623d3f5f519750d4cefbde6bfc5a5cb7427ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.1.1_728a6e4eb9d31ed21e10fe712531fab52c005e68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.1.1_c3ff472d7eda5e0ecfbb1e0459653510fb0a1f03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_eaa955aac2e030e318a547618af806768ab899ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\me.itangqi.waveloadingview\library\0.3.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7640cb27a27ed97bf5f9f808e9cf57cf8df56a63">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\me.itangqi.waveloadingview-library-0.3.5_35b3fed8e49a3bbc4390c13378b7a8184f73ad25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.zys\brokenview\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97a447e8dbdfb375916607aaba92b07c26eae4e1">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.zys-brokenview-1.0.3_f29f05a589984bbdce1cbf75b292dd228d2aaf4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\library-2.4.0_9f4cd6cb36685088b00f8e1a63d9fb73a766d277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\2.2.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="215abfa2b78865741d99f7b9c0afb79894986505">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\jp.wasabeef-recyclerview-animators-2.2.5_252f13a7adaf9d291e30001063f7ec276de17eab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.android.support-design-25.1.1_a26a88e12b4a41b6db5dd202f0a3c372a5409c51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.1.1_66ce7ac37e94a3759cbd576cb0c6f31b9a03a0c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.github.bmarrdev\android-DecoView-charting\v1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3db3fc2b65bcb63276a455085d4f4884cdadb44">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.github.bmarrdev-android-DecoView-charting-v1.2_96561d56d863782ad00c8f81bbdafca9a7055324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\tyrantgit\explosionfield\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f82998f0794dfe2b65edd561ac0b34b536e7ff9a">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\tyrantgit-explosionfield-1.0.1_36b8ecb94a728aad5a7c015888f67b55dc93bff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_ed4900c7241e7ef3ad274cf1a4b65ccef39b5e22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\me.itangqi.waveloadingview\library\0.3.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7640cb27a27ed97bf5f9f808e9cf57cf8df56a63">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\me.itangqi.waveloadingview-library-0.3.5_def3dc44c91a06d19f7b55dcaebfd4f92da46182.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.github.ybq\Android-SpinKit\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.github.ybq-Android-SpinKit-1.1.0_d9d71f40db8552f0eafe314257f1ce9b2d21fa29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.1.1_712b734d4073e75e556917ff646806aee2de53ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_ebfa90cc23a5007ea04d34df57ba549968b4f472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\support-annotations-25.1.1_cf39ceb3992f3ff16afe2114f64f162dc8408526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_75718762c3d5c4b8ae1c4ff17c291c872e8ff228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_a090486210998ccad1a5e942fd913d5e75d2b515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.1.1_9871d34e22a4f7a5e093dfb1b01d7abb6687e13d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.skyfishjy.ripplebackground\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.skyfishjy.ripplebackground-library-1.0.1_4699ef97f9647beefe9b57ffbee85e2aca357735.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_b8686019332f03c2cb35bcdf6b6021a1032de00c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11262f887015dc774ff36eb66698308df0a376d1">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.intuit.sdp-sdp-android-1.0.4_d217c9885687672c42cbc6e0760bb06112596eef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_dfe1f38c4a64bdf433a7cdc7a7ec79f5339f16f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.1.1_26b93b98dcc9e330fdb6589374709c358950a98b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.wang.avi\library\2.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.wang.avi-library-2.1.3_6b02f910373f1ecca9255af050db28f9fd507e4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.zys\brokenview\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97a447e8dbdfb375916607aaba92b07c26eae4e1">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.zys-brokenview-1.0.3_f8a1871f611e362429943a21fec0d5d3aff1ec27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.github.ybq\Android-SpinKit\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.github.ybq-Android-SpinKit-1.1.0_41e02fedf39f909317e9e180a3794a959e2a67e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\2.2.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="215abfa2b78865741d99f7b9c0afb79894986505">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\jp.wasabeef-recyclerview-animators-2.2.5_c38663e9442941f4abcb6693645912b8cd4a1c82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.android.support-transition-25.1.1_322dd5aad0ed3019a050e14d87f592c6565485f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.1.1_08604cb563d8c40fcb13c461e97a4287263a8e98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_8cb6e1bfbdc422825bb7983c45c140035d0e458f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.github.bmarrdev\android-DecoView-charting\v1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3db3fc2b65bcb63276a455085d4f4884cdadb44">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.github.bmarrdev-android-DecoView-charting-v1.2_08c6cfc5dc9ebeebe5fd42e4ffd3eedc1b0fd3b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_fd3888ab949881da863704180e07e04c29030b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_357d6e1818f1f7bdaf7df04a69b8e514959ecec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-8.4.0_ece5e7381a3fcab0d108919c3349403af0cc4562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11262f887015dc774ff36eb66698308df0a376d1">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.intuit.sdp-sdp-android-1.0.4_c0c69c2d8ad95c1dbaa6414c5ddf90b939b267a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.4.0_11027f06cea6fc0d65e8c5cad0ac3c6554b71f32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.skyfishjy.ripplebackground\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.skyfishjy.ripplebackground-library-1.0.1_183024a2a1dbfa1dfadc9803907f726eaa6756ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\tyrantgit\explosionfield\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f82998f0794dfe2b65edd561ac0b34b536e7ff9a">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\tyrantgit-explosionfield-1.0.1_46875eba9fbc808788883eecf5ec6c4c7c336eaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.wang.avi\library\2.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.wang.avi-library-2.1.3_7731814afb7c3bcf1678353135bbd5d3b81742c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_5dfdd38a825ce0838f42bd6d0317dbb7d483a5ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_dc9bf6d93659f595fb21e64b8be1b8b7a0adb141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-25.1.1_d972129eec9e483dd8c1d8155e2dacda651248f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\intag pc\AndroidStudioProjects\Fast Cleaner\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.1.1_ca14e8c037ece72e18852bcfc49658c782ffced1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\intag pc\Desktop\Code Canyon\Fast Cleaner\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_90ba7483014979a1cd457854048067e82f7f48b2.jar" />
+    </item>
+
+</items>
